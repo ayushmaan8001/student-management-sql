@@ -1,0 +1,42 @@
+Student Management Database Report
+Objective
+
+The objective of this project was to create a Student Management Database using SQL and perform different queries for data analysis.
+
+Tasks Performed
+Created a database named StudentManagement
+Created a table named Students
+Inserted 10 student records
+Performed SQL queries for analysis and data retrieval
+Queries and Results
+1. Display All Student Records
+
+Used SELECT * FROM Students to display complete student information.
+
+2. Average Score in Each Subject
+
+Used AVG() function to calculate average marks in Math, Science, and English.
+
+3. Top Performer
+
+Calculated total marks and displayed the student with highest overall score using ORDER BY DESC.
+
+4. Count Students Per Grade
+
+Used GROUP BY and COUNT() to find number of students in each grade category.
+
+5. Average Score by Gender
+
+Calculated average Math score separately for male and female students.
+
+6. Students with Math Score Above 80
+
+Filtered students using WHERE MathScore > 80.
+
+7. Update Student Grade
+
+Updated Rahul’s grade using UPDATE query.
+
+Conclusion
+
+This project helped in understanding SQL database creation, insertion of records, filtering, grouping, sorting, aggregation functions, and updating data.
